@@ -1,0 +1,179 @@
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#photo {
+    text-align: right;
+}
+
+header {
+    background-color: pink;
+    background-image: url('../img/chen.jpg');
+    background-size: contain;
+    display: block;
+    width: 965px;
+    height: 100%;
+    background-position-y: top;
+    background-position-x: 100%;
+    background-repeat: no-repeat;
+}
+
+body {
+    direction: rtl;
+    text-align: center;
+    background-color: rgba(0, 255, 235, 0.34);
+}
+
+
+
+#od {
+    margin-top: 70px;
+}
+
+h1 {
+    font-size: 40pt;
+    padding: 70px 200px 43px 20px;
+    font-family: ArbelHagilda;
+}
+
+h2 {
+    font-family: ArbelHagilda;
+    font-size: 50pt;
+}
+
+p {
+    font-size: 50px;
+    font-family: ArbelHagilda;
+    display: block;
+    background-size: contain;
+}
+
+nav {
+    padding: 0px 200px 0px 0px;
+    position: center;
+    right: 190px;
+}
+
+ul {
+    list-style: none;
+    font-family: ArbelHagilda;
+    font-size: 15px;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 120px;
+    font-family: ArbelHagilda;
+}
+
+    nav ul li a {
+        display: inline-block;
+        color: black;
+        width: 120px;
+        height: 30px;
+        text-decoration: none;
+        text-align: center;
+        font-family: ArbelHagilda;
+    }
+
+        nav ul li a:hover {
+            background-color: pink;
+            font-family: ArbelHagilda;
+        }
+
+        nav ul li a:active {
+            background-color: white;
+            font-family: ArbelHagilda;
+        }
+
+#face a {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-image: url('../img/facebook.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    margin-right: 50px;
+    padding-top: 300px;
+}
+
+    #face a:hover {
+        width: 90px;
+        height: 90px;
+        background-size: 90px;
+    }
+
+#insta a {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-image: url('../img/instagram.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    margin-right: 50px;
+    padding-top: 300px;
+}
+
+    #insta a:hover {
+        width: 90px;
+        height: 90px;
+        background-size: 90px;
+    }
+
+
+
+#info {
+    font-family: ArbelHagilda;
+    color: black;
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 220px;
+}
+#helly {
+        padding-top: 70px;
+    width: 500px;
+    height: 400px;
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    float: right;
+    display: inline;
+    margin-right: 340px;
+}
+#dagg {
+    
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 450px;
+    height: 250px;
+    display: block;
+    margin-right:350px;
+    padding-top: 70px;
+}
+#video {
+    width: 450px;
+    height: 290px;
+    display: block;
+    margin-right: 350px;
+    padding-top: 70px;
+}
+#movie {
+    width:450px;
+    height:750px;
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: center top ;
+    margin-right:340px;
+    padding-top:70px;
+    display: block;
+   
+   
+   
+}
+    
